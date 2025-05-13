@@ -19,8 +19,8 @@ Hi, I'm PRATHAMESH, a tech enthusiast who loves building web applications and ex
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/PRATHAMESH_C_SHETTY/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/PRATHAMESH_C_SHETTY/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/PRATHAMESH_C_SHETTY/](https://www.linkedin.com/in/prathamesha-c-shetty-4015572a9/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/PRATHAMESH_C_SHETTY/](https://www.instagram.com/PRATHAMESH_C_SHETTY/))
 
 ---
 
