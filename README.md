@@ -1,20 +1,26 @@
 <!-- README.md -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Aspiring Web Developer | Computer Science Student</h3>
+<h1 align="center">Hi 👋, I'm PRATHAMESH C SHETTY</h1>
+<h3 align="center">Aspiring Web Developer | Computer Science & Design Student</h3>
 
 ---
 
 ## 🧑‍💻 About Me:
-Hola, I'm [Your Name], a tech enthusiast who loves building web applications and learning new technologies.
+Hi, I'm PRATHAMESH, a tech enthusiast who loves building web applications and exploring creative ways to solve real-world problems using code. I'm currently pursuing a Bachelor's in Computer Science and Design.
+
+---
+
+## 🌟 Highlights:
+- 🎓 Pursuing B.E in Computer Science and Design at PESITM
+- 🏏 Zonal level Cricket Player
+- 🧠 Interested in AI, Web Development, and Creative Projects
+- 🚀 Passionate about learning and building real-world tech solutions
 
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/PRATHAMESH_C_SHETTY/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/PRATHAMESH_C_SHETTY/)
 
 ---
 
@@ -25,15 +31,28 @@ Hola, I'm [Your Name], a tech enthusiast who loves building web applications and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats:
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+## 📚 Currently Learning:
+- Next.js and modern frontend frameworks
+- Database optimization with SQL
+- GitHub Actions & Deployment Workflows
+- Building projects with Next and REST APIs
 
 ---
+
+## 🛠️ Featured Projects:
+- 🎯 **AI-Based Career Advisor** – Built with Flask, HTML/CSS, JS, and SQL  
+- 📚 **Online Book Store** – E-commerce-style bookstore with customer/admin login  
+- 🏏 **Sports Department Management System** – DBMS project to manage sports data  
+- 🌀 **Parallel Universe** – Interactive story-based project using If-Else logic
+
+---
+
+## ⚡ Fun Fact:
+I break down bugs faster as I break a sweat on the cricket field 🏏💻
 
