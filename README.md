@@ -29,10 +29,8 @@ Hi, I'm PRATHAMESH, a tech enthusiast who loves building web applications and ex
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -47,7 +45,6 @@ Hi, I'm PRATHAMESH, a tech enthusiast who loves building web applications and ex
 
 ## 🛠️ Featured Projects:
 - 🎯 **AI-Based Career Advisor** – Built with Flask, HTML/CSS, JS, and SQL  
-- 📚 **Online Book Store** – E-commerce-style bookstore with customer/admin login  
 - 🏏 **Sports Department Management System** – DBMS project to manage sports data  
 - 🌀 **Parallel Universe** – Interactive story-based project using If-Else logic
 
